@@ -103,6 +103,10 @@ d. squashing merge
 
 # git checkout -b branchName
 
+# git show command 
+1. git show // it show all commits
+2. git
+
 # force fully pull
  git pull origin master => normal pull
  git pull origin master --allow-unrelated-histories => forcefully pull
