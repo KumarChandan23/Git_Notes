@@ -105,7 +105,9 @@ d. squashing merge
 
 # git show command 
 1. git show // it show all commits
-2. git
+2. git shwo HEAD // it shows latest commit
+3. git show HEAD~1 // it shows second most recent commit
+4. git show --name-only // Shows only the file names that were changed.
 
 # force fully pull
  git pull origin master => normal pull
